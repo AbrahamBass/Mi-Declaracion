@@ -1,0 +1,53 @@
+.Img {
+  width: 200px;
+}
+
+.titulo-novia {
+  font-family: 'Patrick Hand', cursive;
+  color: black;
+  font-size: 50px;
+  font-weight: 900;
+}
+
+.btn-three {
+  border: none;
+  margin-top: 10px;
+  width: 120px;
+  padding: 8px;
+  border-radius: 10px;
+  color: black;
+  font-size: 20px;
+  cursor: pointer;
+  font-family: 'Patrick Hand', cursive;
+  margin-right: 10px;
+}
+
+.btn-for {
+  border: none;
+  margin-top: 10px;
+  width: 120px;
+  padding: 8px;
+  border-radius: 10px;
+  color: black;
+  font-size: 20px;
+  cursor: pointer;
+  font-family: 'Patrick Hand', cursive;
+  margin-left: 10px;
+}
+
+.div-btn {
+  display: flex;
+  justify-content: center;
+}
+
+.div-aceptacion {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+
+.parrafo-dijo-si {
+  font-size: 20px;
+  font-family: 'Patrick Hand', cursive;
+  
+}
